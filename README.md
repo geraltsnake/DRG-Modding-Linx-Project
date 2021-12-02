@@ -1,34 +1,32 @@
 # DRG-Modding-Linx-Project
-Linx Project is just a showcase of what I made for Deep Rock Galactic Modding(This is new project. So these old mods that I created are not included). 
+This Project is just a showcase of what I made for Deep Rock Galactic Modding(This is new project. So these old mods that I created are not included). 
 
 ## About Linx Project
-Firstly It's free to use this project whatever you want but the current project is not optimized and has poor readability. I improve these eventually.  
+Firstly It's free to use this project whatever you want but the current project is not optimized and has poor readability. I will improve these eventually.  
 **Currently this project only works in the single-player mode. It doesn't work in the multiplayer mode.**  
 
 When the project get stable, I might upload this to mod.io but for now I upload .pak here only. 
-This project doesn't contain any licenced product(All assets I include is made by me), so it's free to use.
+This project doesn't contain any licenced product, so it's free to use.
 
-## Current Implemented Features(But WIP)
-- Placeable Objects
-- Jumppad
-- Movable Platform
-- Sentry Gun
-- Controllable Turret
--  
--
--
 
-## How to Control
-ADS - Left Mouse Button(Do not assign any key to the LMB.)
 
-Placeable
-  Push to Talk - Place Light
-  Reject Invite - Equipments
-  Accept Invite - Sentry Mine
-  Ignore Invite - Grenade, Turret
-  9 - Debug Tools(Currently these tools are very poor(Only I can understand what they do), so it shouldn't be used for now.)
+## About Initialization
+The native spawning method is used. In /Content/_Linx_Initialization, there are blueprints for the initialization.  
   
-  Mouse Wheel Up & Down - Change a placeable object(While holding a key such as Push to Talk)
+- InitCave and InitSpacerig - Only spawns BP_Initialization.
+- BP_Initialization - Do all needed initializations for other BP_managers.
+	
+## How to Control
+- ADS   
+	- Left Mouse Button(Do not assign any key to the LMB.)  
+  
+- Relates to Placeables  
+	- Push to Talk - Place Light  
+	- Reject Invite - Equipments  
+	- Accept Invite - Sentry Mine  
+	- Ignore Invite - Grenade, Turret  
+	- 9 - Debug Tools(Currently these tools are very poor(Only I can understand what they do), so it shouldn't be used for now.)  
+	- Mouse Wheel Up & Down - Change a placeable object(While holding a key such as Push to Talk)  
   
   ADS Manager(Only Work in DRG)
 	The player's camera is attached to WPN actor's SK mesh directly when ADS, so it has weird camera movement sometimes. And also some weapon's reload animation cause very bad camera position.
