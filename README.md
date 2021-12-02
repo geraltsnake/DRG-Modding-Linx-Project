@@ -1,7 +1,6 @@
 # DRG-Modding-Linx-Project
 This Project is just a showcase of what I made for Deep Rock Galactic Modding(This is new project. So these old mods that I created are not included). 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
+![Image1](https://user-images.githubusercontent.com/14234445/144389544-1af5550c-d096-47ac-af79-704ec5bad4e2.png)
 
 ## About Linx Project
 Firstly It's free to use this project whatever you want but the current project is not optimized and has poor readability. I will improve these eventually.  
@@ -23,6 +22,7 @@ The native spawning method is used. In /Content/_Linx_Initialization, there are 
 	- Left Mouse Button(Do not assign any key to the LMB.)  
   
 - Relates to Placeables  
+
 	- Push to Talk - Place Light  
 	- Reject Invite - Equipments  
 	- Accept Invite - Sentry Mine  
