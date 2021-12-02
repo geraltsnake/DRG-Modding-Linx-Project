@@ -1,5 +1,7 @@
 # DRG-Modding-Linx-Project
 This Project is just a showcase of what I made for Deep Rock Galactic Modding(This is new project. So these old mods that I created are not included). 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 ## About Linx Project
 Firstly It's free to use this project whatever you want but the current project is not optimized and has poor readability. I will improve these eventually.  
