@@ -26,6 +26,7 @@ Placeable
   Reject Invite - Equipments
   Accept Invite - Sentry Mine
   Ignore Invite - Grenade, Turret
+  9 - Debug Tools(Currently these tools are very poor(Only I can understand what they do), so it shouldn't be used for now.)
   
   Mouse Wheel Up & Down - Change a placeable object(While holding a key such as Push to Talk)
   
