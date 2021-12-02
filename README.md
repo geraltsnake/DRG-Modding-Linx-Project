@@ -1,9 +1,9 @@
 # DRG-Modding-Linx-Project
-Linx Project is just a showcase of what I made for DRG modding(This is new project. So these old mods that I created are not included). 
+Linx Project is just a showcase of what I made for Deep Rock Galactic Modding(This is new project. So these old mods that I created are not included). 
 
 ## About Linx Project
 Firstly It's free to use this project whatever you want but the current project is not optimized and has poor readability. I improve these eventually.
-This mod is like a personal mod so this project only works in the single-player mode. It doesn't work in the multiplayer mode.
+**Currently this project only works in the single-player mode. It doesn't work in the multiplayer mode.**
 
 When the project get stable, I might upload this to mod.io but for now I upload .pak here only. 
 This project doesn't contain any licenced product(All assets I include is made by me), so it's free to use.
