@@ -1,4 +1,6 @@
-# !!!Writing Is Not Finished Yet :(!!!
+# !!!Writing Is Not Finished Yet :(!!! I'll expands writing and the project eventually :)
+
+
 # Overview of this mod on Youtube
 https://www.youtube.com/watch?v=UTJV51f9tkM
 
