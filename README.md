@@ -12,6 +12,10 @@ You can also download .pak from the release tab. And install to the mod folder.
 The most of things can be tested in the project without launching DRG. But some stuffs that rely on DRG's assets can be seen such as SFX, VFX. If you want to try these thing in the project, see the input in the editor setting.
 ![Animation2](https://user-images.githubusercontent.com/14234445/144623014-a6b03f50-1d22-45f2-8244-8cdef5ee5fff.gif)
 
+And also in DRG of course :)
+![Animation3](https://user-images.githubusercontent.com/14234445/144631303-8eeefe9c-a274-4d60-8277-6796b87a30ed.gif)
+
+
 ## About Initialization
 The native spawning method is used. In /Content/_Linx_Initialization, there are blueprints for the initialization.  
   
