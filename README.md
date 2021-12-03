@@ -2,14 +2,14 @@
 This Project is just a showcase of what I made for Deep Rock Galactic Modding(This is new project. So these old mods that I created are not included). 
 ![Image1](https://user-images.githubusercontent.com/14234445/144389544-1af5550c-d096-47ac-af79-704ec5bad4e2.png)
 
-## About Linx Project
-Firstly It's free to use this project whatever you want but the current project is not optimized and has poor readability. I will improve these eventually.  
+## About The UE4 Project
+Firstly It's free to use this project whatever you want. All of assets(that are inside Linx folders) that I included is made by me, and I won't include any lisenced asset. You don't need to ask a permission or crediting me when you use something from this project :)  
+but the current project is not optimized and has poor readability. I will improve these eventually.  
 **Currently this project only works in the single-player mode. It doesn't work in the multiplayer mode.**  
 
-When the project get stable, I might upload this to mod.io but for now I upload .pak here only. 
-This project doesn't contain any licenced product, so it's free to use.
+You can also download .pak from the release tab. And install to the mod folder.
 
-
+The most of things can be tested in the project without launching DRG. But some stuffs that rely on DRG's assets can be seen such as SFX, VFX. If you want to try these thing in the project, see the input in the editor setting.
 
 ## About Initialization
 The native spawning method is used. In /Content/_Linx_Initialization, there are blueprints for the initialization.  
