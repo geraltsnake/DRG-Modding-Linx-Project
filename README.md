@@ -12,9 +12,9 @@ Firstly It's free to use this project whatever you want. All of assets(that are 
 but the current project is not optimized and has poor readability. I will improve these eventually.  
 **Currently this project only works in the single-player mode. It doesn't work in the multiplayer mode.**  
 
-You can also download .pak from the release tab. And install to the mod folder.
+You can download .pak from the release tab. And install to the mod folder.
 
-The most of things can be tested in the project without launching DRG. But some stuffs that rely on DRG's assets can be seen such as SFX, VFX. If you want to try these thing in the project, see the input in the editor setting.
+The most of things can be tested in the project without launching DRG. But some stuffs that rely on DRG's assets can't be seen such as SFX, VFX. If you want to try these thing in the project, see the input in the editor setting.
 ![Animation2](https://user-images.githubusercontent.com/14234445/144623014-a6b03f50-1d22-45f2-8244-8cdef5ee5fff.gif)
 
 And also in DRG of course :)
