@@ -1,5 +1,4 @@
-# !!!Not Ready Yet!!!(I'm so lazy lol)
-
+# !!!Writing Is Not Finished Yet :(!!!
 # Overview of this mod on Youtube
 https://www.youtube.com/watch?v=UTJV51f9tkM
 
